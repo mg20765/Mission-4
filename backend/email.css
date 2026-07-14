@@ -1,0 +1,34 @@
+.email-container {
+  font-family: Arial, sans-serif;
+  color: #1e293b;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px;
+}
+.email-header {
+  color: #004b87;
+  margin-bottom: 15px;
+}
+.summary-box {
+  background-color: #f8fafc;
+  padding: 15px;
+  border-left: 4px solid #004b87;
+  margin: 20px 0;
+  white-space: pre-line;
+}
+.turners-link {
+  color: #ff7900;
+  font-weight: bold;
+  text-decoration: none;
+}
+.divider {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 25px 0;
+}
+.disclaimer {
+  font-size: 11px;
+  color: #64748b;
+  font-style: italic;
+}
